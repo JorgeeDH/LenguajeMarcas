@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang= "en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <tittle>Document/</title>
+
+        </head>
+        <body>
+            <h1>
+            <h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit accusantium v
+
+                <table border="1" align="center">
+            <thead>
+                <tr>
+                    <th>lunes</th>
+                    <th>martes</th>
+                    <th>miercoles</th>
+                    <th>jueves</th>
+                    <th>viernes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>dias</td>
+                    <td>dias</td>
+                    <td>dias</td>
+                    <td>dias</td>
+                    <td>dias</td>
+                    <td>dias</td>
+                    <td>dias</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
